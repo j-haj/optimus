@@ -1,0 +1,7 @@
+# masOS
+*.DS_Store
+
+# C++
+*.o
+/build/*
+/bin/*
