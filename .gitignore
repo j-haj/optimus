@@ -5,3 +5,6 @@
 *.o
 /build/*
 /bin/*
+
+# vi
+*.swp
